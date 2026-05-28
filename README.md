@@ -19,15 +19,11 @@ profile for an algorithmic trading bot based on technical confluence signals.
 ```
 financial-asset-analysis/
 │
-├── notebooks/
-│   └── financial_asset_analysis.ipynb
-│
-├── images/
-│   ├── grafica1_retorno_total.png
-│   ├── grafica2_boxplot_industrias.png
-│   ├── grafica3_evolucion_industrias.png
-│   └── grafica4_senal_vs_retorno.png
-│
+├── financial_asset_analysis.ipynb   # Main analysis notebook
+├── grafica1_retorno_total.png
+├── grafica2_boxplot_industrias.png
+├── grafica3_evolucion_industrias.png
+├── grafica4_senal_vs_retorno.png
 └── README.md
 ```
 
